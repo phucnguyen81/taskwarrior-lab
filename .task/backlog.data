@@ -1,0 +1,13 @@
+{"description":"Prepare the first draft of the proposal","due":"20240215T170000Z","entry":"20240212T052547Z","modified":"20240212T052547Z","status":"pending","uuid":"e6c901e0-d009-48bd-b336-d4485bac0075"}
+{"description":"Buy milk","entry":"20240212T053444Z","modified":"20240212T053444Z","status":"pending","uuid":"e1935917-92b7-4b4e-ba00-b8223d9a5773"}
+{"description":"Buy eggs","entry":"20240212T053453Z","modified":"20240212T053453Z","status":"pending","uuid":"4395b394-7680-46b0-aa79-649faed4440f"}
+{"description":"Buy cake","entry":"20240212T053503Z","modified":"20240212T053503Z","status":"pending","uuid":"922ff30e-e132-4f2e-a555-315c3fcc1607"}
+{"description":"Bake cake","entry":"20240212T053503Z","modified":"20240212T053549Z","status":"pending","uuid":"922ff30e-e132-4f2e-a555-315c3fcc1607"}
+{"description":"Buy milk","end":"20240212T053641Z","entry":"20240212T053444Z","modified":"20240212T053641Z","status":"completed","uuid":"e1935917-92b7-4b4e-ba00-b8223d9a5773"}
+{"description":"Prepare the first draft of the proposal","due":"20240215T170000Z","end":"20240212T062114Z","entry":"20240212T052547Z","modified":"20240212T062114Z","status":"completed","uuid":"e6c901e0-d009-48bd-b336-d4485bac0075"}
+{"description":"Buy eggs","end":"20240212T062136Z","entry":"20240212T053453Z","modified":"20240212T062136Z","status":"completed","uuid":"4395b394-7680-46b0-aa79-649faed4440f"}
+{"description":"Bake cake","end":"20240212T062141Z","entry":"20240212T053503Z","modified":"20240212T062141Z","status":"completed","uuid":"922ff30e-e132-4f2e-a555-315c3fcc1607"}
+{"description":"Read taskwarrior docs later","entry":"20240212T062153Z","modified":"20240212T062153Z","status":"pending","uuid":"1741bce4-df47-4454-9b1a-69b361f95ab5"}
+{"description":"Pay bills","entry":"20240212T062212Z","modified":"20240212T062212Z","priority":"H","status":"pending","uuid":"f454bc68-c105-4a7e-86c8-0b68140a98af"}
+{"description":"Pay bills","end":"20240212T062319Z","entry":"20240212T062212Z","modified":"20240212T062319Z","priority":"H","status":"completed","uuid":"f454bc68-c105-4a7e-86c8-0b68140a98af"}
+{"description":"Read taskwarrior docs later","end":"20240212T062326Z","entry":"20240212T062153Z","modified":"20240212T062329Z","status":"deleted","uuid":"1741bce4-df47-4454-9b1a-69b361f95ab5"}
